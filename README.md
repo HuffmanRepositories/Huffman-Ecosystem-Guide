@@ -1,5 +1,8 @@
 # Huffman Ecosystem Guide
 
+[Start here](START-HERE.md) · [AI agent guidance](AGENTS.md)
+
+
 A public, introductory guide to the Huffman open-source AI interoperability and testing projects.
 
 ## Start here
