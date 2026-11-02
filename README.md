@@ -5,6 +5,8 @@
 
 A public, introductory guide to the Huffman open-source AI interoperability and testing projects.
 
+For cross-repository work, see the [Huffman Agent Handshake](https://github.com/HuffmanRepositories/Open-Source-AI-Independence/blob/main/AGENT-HANDSHAKE.md).
+
 ## Start here
 - [Installation](START-HERE/INSTALLATION.md)
 - [Beginner guide](START-HERE/BEGINNER-GUIDE.md)
