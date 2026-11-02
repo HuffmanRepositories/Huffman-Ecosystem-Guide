@@ -25,3 +25,8 @@ The [AI guidance](AI/AI-README.md) explains safe use of assistants. The [privacy
 
 ## Contributions
 See [CONTRIBUTING.md](CONTRIBUTING.md). Check each project’s own README, license, version, and maturity before relying on it.
+
+
+## Ecosystem directory
+
+The canonical public portfolio index, project router, shared glossary, and human/AI onboarding entry point is the [Huffman Ecosystem Root](https://github.com/HuffmanRepositories/Huffman-Ecosystem-Root). Start there to discover the smallest relevant project without ingesting the entire portfolio.
