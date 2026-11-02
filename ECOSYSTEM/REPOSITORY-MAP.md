@@ -16,4 +16,4 @@ This map is an orientation aid. Confirm each repository's current default branch
 | Huffman Repositories | `HuffmanRepositories` | Profile and project discovery |
 | Huffman Ecosystem Guide | `Huffman-Ecosystem-Guide` | Public onboarding, safety guidance, and agent orientation |
 
-The private Huffman Archive Test Lab and HuffmanRepositories Blueprint are intentionally excluded from this public map. Do not link to or disclose private-only materials here.
+Private internal workspaces are intentionally excluded from this public map. Do not link to or disclose private-only materials here.
