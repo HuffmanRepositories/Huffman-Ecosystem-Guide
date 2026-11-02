@@ -9,6 +9,9 @@ A public, introductory guide to the Huffman open-source AI interoperability and 
 
 For cross-repository work, see the [Huffman Agent Handshake](https://github.com/HuffmanRepositories/Open-Source-AI-Independence/blob/main/AGENT-HANDSHAKE.md).
 
+
+> **Current status:** This guide is an onboarding and documentation resource. Its pages are informational; they do not certify projects or imply production readiness. For current portfolio status and release gates, see the [Huffman Ecosystem Root](https://github.com/HuffmanRepositories/Huffman-Ecosystem-Root) and [release-readiness review](https://github.com/HuffmanRepositories/Huffman-Ecosystem-Root/blob/main/RELEASE-READINESS-REVIEW.md).
+
 ## Start here
 - [Installation](START-HERE/INSTALLATION.md)
 - [Beginner guide](START-HERE/BEGINNER-GUIDE.md)
