@@ -7,6 +7,10 @@
 
 A public, introductory guide to the Huffman open-source AI interoperability and testing projects.
 
+The account portfolio currently spans **14 repositories (12 public and 2 private)**. Public work includes mission and coordination, protocol compatibility, run-metrics interoperability, memory portability (P10), evaluation integrity (P11), retries/idempotency (P12), delegation scope (P13), budget enforcement (P14), and user-stop reference fixtures (P15). This is a connected research/documentation ecosystem, not a single installed platform.
+
+**Suggested learning sequence:** start with this guide for orientation, use the [Ecosystem Root catalog](https://github.com/HuffmanRepositories/Huffman-Ecosystem-Root/blob/main/PROJECT-CATALOG.md) to choose a project, then follow that project's README and AGENTS.md. Read companion projects only when a scenario crosses their boundaries.
+
 For cross-repository work, see the [Huffman Agent Handshake](https://github.com/HuffmanRepositories/Open-Source-AI-Independence/blob/main/AGENT-HANDSHAKE.md).
 
 
