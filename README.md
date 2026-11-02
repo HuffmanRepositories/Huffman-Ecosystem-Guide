@@ -1,5 +1,7 @@
 # Huffman Ecosystem Guide
 
+[Security policy](SECURITY.md)
+
 [Start here](START-HERE.md) · [Whitepaper](WHITEPAPER.md) · [Public whitepaper index](WHITEPAPERS.md) · [AI agent guidance](AGENTS.md)
 
 
