@@ -14,5 +14,6 @@ This map is an orientation aid. Confirm each repository's current default branch
 | Delegated Budget Enforcement | `Agent-Delegated-Budget-Enforcement-Fixtures` | Delegated budget scenario fixtures |
 | Open-Source AI Independence | `Open-Source-AI-Independence` | Public project hub and mission |
 | Huffman Repositories | `HuffmanRepositories` | Profile and project discovery |
+| Huffman Ecosystem Guide | `Huffman-Ecosystem-Guide` | Public onboarding, safety guidance, and agent orientation |
 
-The private Archive Test Lab is intentionally excluded from this public map. Do not link to or disclose private-only materials here.
+The private Huffman Archive Test Lab and HuffmanRepositories Blueprint are intentionally excluded from this public map. Do not link to or disclose private-only materials here.
