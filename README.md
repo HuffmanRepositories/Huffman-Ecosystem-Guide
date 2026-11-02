@@ -1,6 +1,6 @@
 # Huffman Ecosystem Guide
 
-[Start here](START-HERE.md) · [Whitepaper](WHITEPAPER.md) · [AI agent guidance](AGENTS.md)
+[Start here](START-HERE.md) · [Whitepaper](WHITEPAPER.md) · [Public whitepaper index](WHITEPAPERS.md) · [AI agent guidance](AGENTS.md)
 
 
 A public, introductory guide to the Huffman open-source AI interoperability and testing projects.
